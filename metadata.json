@@ -1,0 +1,5 @@
+{
+  "name": "Donghua 3D Prompt Architect",
+  "description": "A specialized tool to architect high-fidelity prompts for 3D Chinese Animation (Donghua) characters, optimized for the Nano Banana Pro model.",
+  "requestFramePermissions": []
+}
